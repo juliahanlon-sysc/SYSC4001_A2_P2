@@ -7,3 +7,4 @@ Open a terminal in the directory containing files and the do following commands:
 gcc -o process2_101194310_101299427 process2_101194310_101299427.c
 gcc -o process1_101194310_101299427 process1_101194310_101299427.c
 
+
