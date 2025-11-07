@@ -6,5 +6,8 @@ Open a terminal in the directory containing files and the do following commands:
 ```bash
 gcc -o process2_101194310_101299427 process2_101194310_101299427.c
 gcc -o process1_101194310_101299427 process1_101194310_101299427.c
-
-
+```
+## Execution for Step 2 - 5
+```bash
+./process1_101194310_101299427
+```
